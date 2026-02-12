@@ -1,0 +1,26 @@
+format: jb-book
+root: README
+parts:
+  - caption: Part 1 - The Birth of the Bit
+    chapters:
+    - file: course_content/01_foundations/01_planck_radiation
+    - file: course_content/01_foundations/02_bohr_atom
+    - file: course_content/02_wave_mechanics/01_schrodinger_box
+
+  - caption: Part 2 - The Geometry of Logic
+    chapters:
+    - file: course_content/03_unified_qubit/01_continuum_logic
+    - file: course_content/03_unified_qubit/02_visualizing_bloch
+    - file: course_content/02_wave_mechanics/02_entangled_system
+
+  - caption: Part 3 - Engineering Reality
+    chapters:
+    - file: course_content/04_real_hardware/01_hilbert_scale
+    - file: course_content/04_real_hardware/02_zne_extrapolation
+    - file: course_content/06_entropy_verification/01_dieharder_tests
+
+  - caption: Part 4 - The Intelligent Future
+    chapters:
+    - file: course_content/05_quantum_ai/01_hybrid_training
+    - file: course_content/05_quantum_ai/02_50_qubit_inference
+    - file: course_content/07_probabilistic_computing/01_energy_landscapes

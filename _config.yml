@@ -1,0 +1,5 @@
+title: Quantum Mechanics from Zero
+author: Peter Babulik
+logo: assets/logo.png  # You can add a logo later
+execute:
+  execute_notebooks: force

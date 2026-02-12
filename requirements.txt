@@ -1,0 +1,9 @@
+numpy
+qiskit
+pennylane
+plotly
+jupyter
+jupyter-book
+matplotlib
+scipy
+torch
